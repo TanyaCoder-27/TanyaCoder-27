@@ -1,7 +1,12 @@
 <h1 align="center">Hi there, I'm Tanya Coder 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IguC6bxjRFaG49m/giphy.gif" alt="animated coder" width="200"/>
+  <p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" width="300"/>
+</p>
+                                        
+  
+  
 </p>
 
 <h3 align="center">I'm interested in Data Analytics and Machine Learning</h3>
