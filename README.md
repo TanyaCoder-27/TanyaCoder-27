@@ -9,7 +9,7 @@
   
 </p>
 
-<h3 align="center">I'm interested in Data Analytics and Machine Learning</h3>
+<h3 align="center">I'm interested in Web Development, Data Analysis and GenAI</h3>
 
 <p align="center">
   🌱 I’m currently working on Projects on Data Analytics and Machine Learning and DSA using JAVA!<br>
