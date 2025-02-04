@@ -12,8 +12,8 @@
 <h3 align="center">I'm interested in Web Development, Data Analysis and GenAI</h3>
 
 <p align="center">
-  🌱 I’m currently working on Projects on Data Analytics and Machine Learning and DSA using JAVA!<br>
-  💞️ I’m looking forward to sharing my projects as well as JAVA DSA Codes with you here soon!
+  🌱 I’m currently working on Projects related to Data Analysis , Web Development and solving DSA problems using JAVA!<br>
+  💞️ I’m looking forward to sharing my projects as well as JAVA DSA Codes with you here!
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanyaCoder-27&theme=radical" alt="Tanya's GitHub streak" />
 </p>
 
-<h3 align="center">😄⚡ Fun fact: I work slowly like a tortoise yet I reach my goal on time (;</h3>
+<h3 align="center">😄⚡ Fun fact: I work slowly like a tortoise and still I reach my goal on time (;</h3>
                                         
   
   
